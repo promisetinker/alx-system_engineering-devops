@@ -1,1 +1,1 @@
-command solutions to bash project
+my command for bash project
