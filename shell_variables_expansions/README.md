@@ -1,1 +1,1 @@
-My full task solitions for this projrect
+Solutuons to all my bash projects
