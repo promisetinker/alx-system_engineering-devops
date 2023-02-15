@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l $PATH | wc -l 
+find . -type d -name lib\* -printf "%i\n" | wc -l 
